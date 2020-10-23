@@ -1,0 +1,99 @@
+/* Usama Naeem Toor. 301353233. 27 July 2020 */
+
+
+Body {
+
+Background-image: url("Images/Canada.jpg");
+
+}
+
+
+.options {
+    display: flex;
+    margin-bottom: 0.8rem;
+    width: 100%;
+    border-radius: 4px;
+    background: maroon;
+    font-size: 3rem;
+    min-width: 80rem;
+}
+
+.options:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+.prefix {
+    padding: 2rem 2.5rem;
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 150vh;
+    max-width: 90rem;
+    margin: 0 auto;
+    padding: 2rem;
+    width: 120vh;
+    height: 100vh;
+    Margin: auto;
+    Background-color: black;
+}
+
+
+#questions {
+font-size: 30px;
+Padding: 45px;
+Text-align: left;
+Color: white;
+Background-color: black;
+Margin-top: 20px;
+
+
+}
+
+
+#top {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    font-size: 6em;
+}
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 62.5%;
+    font-family: 'Times New Roman', cursive;
+}
+
+h1 {
+font-family: "Times New Roman";
+background-color: maroon;
+font-size: 60px;
+text-align: center;
+color: white;
+padding: 10px 0px;
+border-radius: 20px;
+Margin-bottom: 20px;
+}
+
+.optiontext {
+    padding: 1em;
+    width: 100%;
+}
+
+
+#progressText {
+    text-align: center;
+    font-size: 2em;
+    Color: white;
+}
+
+
+
